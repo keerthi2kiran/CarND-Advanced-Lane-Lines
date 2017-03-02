@@ -103,7 +103,7 @@ From the detected points, determine a second degree polynomial that fits these p
 
 #### 6. Provide an example image of your result plotted back down onto the road such that the lane area is identified clearly.
 
-I implemented this step in the function `process_image()`.  Here is an example of my result on a test image:
+I implemented this step in the function `render_lane()`.  Here is an example of my result on a test image:
 
 ![alt text][image6]
 
